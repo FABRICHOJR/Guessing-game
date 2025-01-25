@@ -1,0 +1,14 @@
+C:\Users\fabri\Desktop\cSharp\WebApplication1\practicar\New folder\Practica\bin\Debug\net9.0\Practica.exe
+C:\Users\fabri\Desktop\cSharp\WebApplication1\practicar\New folder\Practica\bin\Debug\net9.0\Practica.deps.json
+C:\Users\fabri\Desktop\cSharp\WebApplication1\practicar\New folder\Practica\bin\Debug\net9.0\Practica.runtimeconfig.json
+C:\Users\fabri\Desktop\cSharp\WebApplication1\practicar\New folder\Practica\bin\Debug\net9.0\Practica.dll
+C:\Users\fabri\Desktop\cSharp\WebApplication1\practicar\New folder\Practica\bin\Debug\net9.0\Practica.pdb
+C:\Users\fabri\Desktop\cSharp\WebApplication1\practicar\New folder\Practica\obj\Debug\net9.0\Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Desktop\cSharp\WebApplication1\practicar\New folder\Practica\obj\Debug\net9.0\Practica.AssemblyInfoInputs.cache
+C:\Users\fabri\Desktop\cSharp\WebApplication1\practicar\New folder\Practica\obj\Debug\net9.0\Practica.AssemblyInfo.cs
+C:\Users\fabri\Desktop\cSharp\WebApplication1\practicar\New folder\Practica\obj\Debug\net9.0\Practica.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\cSharp\WebApplication1\practicar\New folder\Practica\obj\Debug\net9.0\Practica.dll
+C:\Users\fabri\Desktop\cSharp\WebApplication1\practicar\New folder\Practica\obj\Debug\net9.0\refint\Practica.dll
+C:\Users\fabri\Desktop\cSharp\WebApplication1\practicar\New folder\Practica\obj\Debug\net9.0\Practica.pdb
+C:\Users\fabri\Desktop\cSharp\WebApplication1\practicar\New folder\Practica\obj\Debug\net9.0\Practica.genruntimeconfig.cache
+C:\Users\fabri\Desktop\cSharp\WebApplication1\practicar\New folder\Practica\obj\Debug\net9.0\ref\Practica.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NglhUNlKJlk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabri\\Desktop\\cSharp\\WebApplication1\\practicar\\New folder\\Practica\\Practica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabri\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.1\\microsoft.netcore.app.runtime.win-x64.9.0.1.nupkg.sha512",
+    "C:\\Users\\fabri\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.1.nupkg.sha512",
+    "C:\\Users\\fabri\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.1\\microsoft.aspnetcore.app.runtime.win-x64.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
